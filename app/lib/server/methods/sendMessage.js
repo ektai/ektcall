@@ -73,7 +73,7 @@ export function executeSendMessage(uid, message) {
 			message.alias = user.name;
 		}
 
-		metrics.messagesSent.inc(); // TODO This line needs to be moved to it's proper place. See the comments on: https://github.com/RocketChat/Rocket.Chat/pull/5736
+		metrics.messagesSent.inc(); // TODO This line needs to be moved to it's proper place. See the comments on: https://github.com/ektai/ektcall/pull/5736
 		return sendMessage(user, message, room, false);
 	} catch (error) {
 		if (error === 'error-not-allowed') {

@@ -1,7 +1,7 @@
 {
   "name": "Rocket.Chat",
   "description": "Have your own ekt-ai Slack-like online chat platform.",
-  "repository": "https://github.com/RocketChat/Rocket.Chat",
+  "repository": "https://github.com/ektai/ektcall",
   "logo": "https://raw.githubusercontent.com/RocketChat/Rocket.Chat/master/public/images/logo/1024x1024.png",
   "keywords": ["meteor", "social", "community", "chat"],
   "website": "https://ekt.ai",

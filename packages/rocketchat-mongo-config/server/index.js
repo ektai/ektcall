@@ -4,7 +4,7 @@ import { PassThrough } from 'stream';
 import { EmailTest } from 'meteor/email';
 import { Mongo } from 'meteor/mongo';
 
-// FIX For TLS error see more here https://github.com/RocketChat/Rocket.Chat/issues/9316
+// FIX For TLS error see more here https://github.com/ektai/ektcall/issues/9316
 // TODO: Remove after NodeJS fix it, more information
 // https://github.com/nodejs/node/issues/16196
 // https://github.com/nodejs/node/pull/16853

@@ -10,7 +10,7 @@ Please see our guide for opening issues: https://ekt.ai/docs/contributing/report
 
 If you have questions or are looking for help/support please see: https://ekt.ai/docs/getting-support
 
-If you are experiencing a bug please search our issues to be sure it is not already present: https://github.com/RocketChat/Rocket.Chat/issues
+If you are experiencing a bug please search our issues to be sure it is not already present: https://github.com/ektai/ektcall/issues
 
 -->
 

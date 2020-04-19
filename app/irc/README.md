@@ -9,9 +9,9 @@ This package does not attempt to replace Ekt.Ai functionality nor operate as an 
 
 ### Development
 
-Core functionality is still in its infancy and needs improvement! If your objectives are broader than the stated scope of this project, please consider creating a separate package. Bugs and feature requests should be reported at [github.com/RocketChat/Rocket.Chat/issues](https://github.com/RocketChat/Rocket.Chat/issues)
+Core functionality is still in its infancy and needs improvement! If your objectives are broader than the stated scope of this project, please consider creating a separate package. Bugs and feature requests should be reported at [github.com/RocketChat/Rocket.Chat/issues](https://github.com/ektai/ektcall/issues)
 
-The most active conversation on this package can be found in [Issue 216](https://github.com/RocketChat/Rocket.Chat/issues/216).
+The most active conversation on this package can be found in [Issue 216](https://github.com/ektai/ektcall/issues/216).
 
 
 ### Build Notes
@@ -26,7 +26,7 @@ These *nix build notes are provided for development purposes only and do not inc
 
 #### Clone the Ekt.Ai repo via Git
 
-	git clone https://github.com/RocketChat/Rocket.Chat.git
+	git clone https://github.com/ektai/ektcall.git
 
 #### Edit the package list
 
@@ -54,7 +54,7 @@ As you use Rocket.Chat, be sure to monitor the console terminal (or Rocket.Chat'
 
 ### Changelog
 
-Please see the [commit history](https://github.com/RocketChat/Rocket.Chat/commits/develop/packages/rocketchat-irc) on GitHub for a full list of changes.
+Please see the [commit history](https://github.com/ektai/ektcall/commits/develop/packages/rocketchat-irc) on GitHub for a full list of changes.
 
 Major functional changes:
 

@@ -106,7 +106,7 @@ export const processDirectEmail = function(email) {
 			message.alias = user.name;
 		}
 
-		metrics.messagesSent.inc(); // TODO This line needs to be moved to it's proper place. See the comments on: https://github.com/RocketChat/Rocket.Chat/pull/5736
+		metrics.messagesSent.inc(); // TODO This line needs to be moved to it's proper place. See the comments on: https://github.com/ektai/ektcall/pull/5736
 
 		return _sendMessage(user, message, room);
 	}

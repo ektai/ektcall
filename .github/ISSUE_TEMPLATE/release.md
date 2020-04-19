@@ -20,7 +20,7 @@ When you find a bug that is a regression, please open a new issue and link it to
 - [ ] Sync translations from [LingoHub](https://translate.lingohub.com/rocketchat/rocket-dot-chat/dashboard)
 
 ## Release Candidate 1 - On the 20th
-- [ ] Execute action `Release Candidate` via [Houston CLI](https://github.com/RocketChat/Rocket.Chat.Houston) (`houston release`)
+- [ ] Execute action `Release Candidate` via [Houston CLI](https://github.com/ektai/ektcall.Houston) (`houston release`)
 - [ ] Check if `release-candidate` branch was published
 - [ ] Check if the tag was published and contains the history
 - [ ] Ensure the build is passing on [CircleCI](https://circleci.com/gh/RocketChat/Rocket.Chat)
@@ -28,7 +28,7 @@ When you find a bug that is a regression, please open a new issue and link it to
 
 <!-- Copy following block for next release candidates
 ## Release Candidate {release-candidate-version} - On the {day}
-- [ ] Execute action `Release Candidate` via [Houston CLI](https://github.com/RocketChat/Rocket.Chat.Houston) (`houston release`)
+- [ ] Execute action `Release Candidate` via [Houston CLI](https://github.com/ektai/ektcall.Houston) (`houston release`)
 - [ ] Check if `release-candidate` branch was published
 - [ ] Check if the tag was published and contains the history
 - [ ] Ensure the build is passing on [CircleCI](https://circleci.com/gh/RocketChat/Rocket.Chat)
@@ -36,7 +36,7 @@ When you find a bug that is a regression, please open a new issue and link it to
 -->
 
 ## Final Release - On the 27th
-- [ ] Execute action `Final Release` via [Houston CLI](https://github.com/RocketChat/Rocket.Chat.Houston) (`houston release`)
+- [ ] Execute action `Final Release` via [Houston CLI](https://github.com/ektai/ektcall.Houston) (`houston release`)
 - [ ] Check if `release-{version}` branch was published
 - [ ] Check if the release was created as **draft** and contains the history
 - [ ] Check if the release Pull Request was created and contains the history
@@ -53,7 +53,7 @@ When you find a bug that is a regression, please open a new issue and link it to
 - [ ] Get an update from Marketing Team about the release Blog Post
 - [ ] Check with the Documentation Team about the Docs release
 - [ ] Sync develop
-  - [ ] Execute action `Develop Sync` via [Houston CLI](https://github.com/RocketChat/Rocket.Chat.Houston) (`houston release`)
+  - [ ] Execute action `Develop Sync` via [Houston CLI](https://github.com/ektai/ektcall.Houston) (`houston release`)
   - [ ] Ensure the **Pull Request** build is passing on [CircleCI](https://circleci.com/gh/RocketChat/Rocket.Chat)
   - [ ] When build has passed, ask for approval and wait
   - [ ] Merge Sync PR

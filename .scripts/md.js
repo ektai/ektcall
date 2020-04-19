@@ -177,7 +177,7 @@ function renderPRs(prs) {
 				contributors = ` by ${ contributors }`;
 			}
 
-			const prInfo = pr.pr ? ` ([#${ pr.pr }](https://github.com/RocketChat/Rocket.Chat/pull/${ pr.pr })${ contributors })` : '';
+			const prInfo = pr.pr ? ` ([#${ pr.pr }](https://github.com/ektai/ektcall/pull/${ pr.pr })${ contributors })` : '';
 			data.push(`- ${ pr.title }${ prInfo }`);
 		});
 		if (group === 'NOGROUP') {

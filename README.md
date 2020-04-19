@@ -11,7 +11,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/8580571ba024426d9649e9ab389bd5dd)](https://www.codacy.com/app/RocketChat/Rocket-chat)
 [![Coverage Status](https://coveralls.io/repos/RocketChat/Rocket.Chat/badge.svg)](https://coveralls.io/r/RocketChat/Rocket.Chat)
 [![Code Climate](https://codeclimate.com/github/RocketChat/Rocket.Chat/badges/gpa.svg)](https://codeclimate.com/github/RocketChat/Rocket.Chat)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/RocketChat/Rocket.Chat/raw/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/ektai/ektcall/raw/master/LICENSE)
 
 
 * [**NEW!** Help Wanted](#help-wanted)
@@ -78,7 +78,7 @@ Join thousands of members worldwide 24/7 in our [community server](https://open.
 You can also join the conversation on [Twitter](https://twitter.com/RocketChat) and [Facebook](https://www.facebook.com/RocketChatApp).
 
 # Desktop Apps
-Download the Native Cross-Platform Desktop Application at [Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron/releases)
+Download the Native Cross-Platform Desktop Application at [Rocket.Chat.Electron](https://github.com/ektai/ektcall.Electron/releases)
 
 
 # Mobile Apps
@@ -143,7 +143,7 @@ Install Ekt.Ai on [Cloudron](https://cloudron.io) Smartserver:
 ## Heroku
 Host your own Ekt.Ai server for **FREE** with [One-Click Deploy](https://heroku.com/deploy).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/RocketChat/Rocket.Chat/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ektai/ektcall/tree/master)
 
 ## Helm Kubernetes
 Deploy on Kubernetes using the official [helm chart](https://github.com/helm/charts/tree/master/stable/rocketchat).
@@ -151,7 +151,7 @@ Deploy on Kubernetes using the official [helm chart](https://github.com/helm/cha
 ## Scalingo
 Deploy your own Ekt.Ai server instantly on [Scalingo](https://scalingo.com).
 
-[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/RocketChat/Rocket.Chat#master)
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/ektai/ektcall#master)
 
 
 ## Sloppy.io
@@ -169,7 +169,7 @@ OR Use the automated build image of our [most recent release](https://hub.docker
 docker pull rocketchat/rocket.chat:latest
 ```
 
-OR select a specific release ([details of releases available](https://github.com/RocketChat/Rocket.Chat/releases)):
+OR select a specific release ([details of releases available](https://github.com/ektai/ektcall/releases)):
 ```
 docker pull rocketchat/rocket.chat:vX.X.X
 ```
@@ -188,7 +188,7 @@ Automated production-grade deployment in minutes, for RHEL / CentOS 7 or Ubuntu 
 ## Raspberry Pi 2
 Run Ekt.Ai on this world famous $30 quad-core server.
 
-[![Raspberry Pi 2](https://raw.githubusercontent.com/Sing-Li/bbug/master/images/pitiny.png)](https://github.com/RocketChat/Rocket.Chat.RaspberryPi)
+[![Raspberry Pi 2](https://raw.githubusercontent.com/Sing-Li/bbug/master/images/pitiny.png)](https://github.com/ektai/ektcall.RaspberryPi)
 
 ## Koozali SME
 
@@ -304,7 +304,7 @@ It is a great solution for communities and companies wanting to privately host t
 
 ## Roadmap
 
-To see an up to date view of what we have planned, view our [milestones](https://github.com/RocketChat/Rocket.Chat/milestones).
+To see an up to date view of what we have planned, view our [milestones](https://github.com/ektai/ektcall/milestones).
 
 
 ## How it all started
@@ -320,7 +320,7 @@ Read about [how it all started](https://www.synopsys.com/blogs/software-security
 
 ## Issues
 
-[Github Issues](https://github.com/RocketChat/Rocket.Chat/issues) are used to track bugs and tasks on the roadmap.
+[Github Issues](https://github.com/ektai/ektcall/issues) are used to track bugs and tasks on the roadmap.
 
 ## Feature Requests
 
@@ -370,7 +370,7 @@ Prerequisites:
 Now just clone and start the app:
 
 ```sh
-git clone https://github.com/RocketChat/Rocket.Chat.git
+git clone https://github.com/ektai/ektcall.git
 cd Rocket.Chat
 meteor npm install
 meteor npm start
@@ -399,7 +399,7 @@ If you want to help, send an email to support at rocket.chat to be invited to th
 
 ## How to Contribute
 
-Already a JavaScript developer? Familiar with Meteor? [Pick an issue](https://github.com/RocketChat/Rocket.Chat/labels/contrib%3A%20easy), push a PR and instantly become a member of Rocket.Chat's international contributors' community. For more information, check out our [Contributing Guide](.github/CONTRIBUTING.md) and our [Official Documentation for Contributors](https://ekt.ai/docs/contributing/).
+Already a JavaScript developer? Familiar with Meteor? [Pick an issue](https://github.com/ektai/ektcall/labels/contrib%3A%20easy), push a PR and instantly become a member of Rocket.Chat's international contributors' community. For more information, check out our [Contributing Guide](.github/CONTRIBUTING.md) and our [Official Documentation for Contributors](https://ekt.ai/docs/contributing/).
 
 A lot of work has already gone into Rocket.Chat, but we have much bigger plans for it!
 
@@ -417,7 +417,7 @@ Thanks to our core team
 [Marcelo Schmidt](https://github.com/marceloschmidt),
 [Rodrigo Nascimento](https://github.com/rodrigok),
 [Sing Li](https://github.com/Sing-Li),
-and hundreds of awesome [contributors](https://github.com/RocketChat/Rocket.Chat/graphs/contributors).
+and hundreds of awesome [contributors](https://github.com/ektai/ektcall/graphs/contributors).
 
 ![JoyPixels](https://i.imgur.com/OrhYvLe.png)
 
